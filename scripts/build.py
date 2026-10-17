@@ -47,16 +47,16 @@ def render(path, title, content, description=None):
             f'<a class="dock-item{" active" if active else ""}" href="{prefix}{target}"{active}>'
             f'<span class="dock-icon">{icon(image)}</span><span>{label}</span></a>'
         )
-    description = description or "Haroldo Gambini Santos. Software engineer, former CS professor, and open-source optimization enthusiast."
+    description = description or "Haroldo. Software engineer, former CS professor, and open-source optimization enthusiast."
     document = f"""<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{escape(title)} · Haroldo Gambini Santos</title>
+  <title>{escape(title)} · Haroldo</title>
   <meta name="description" content="{escape(description, quote=True)}">
   <meta name="theme-color" content="#34344e">
-  <meta property="og:title" content="{escape(title, quote=True)} · Haroldo Gambini Santos">
+  <meta property="og:title" content="{escape(title, quote=True)} · Haroldo">
   <meta property="og:description" content="{escape(description, quote=True)}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{SITE_URL}/{path}">
@@ -79,7 +79,7 @@ def render(path, title, content, description=None):
       <div class="window">
         <div class="title-bar">
           <span class="window-emblem" aria-hidden="true">H</span>
-          <span class="window-title">{escape(title)} <span class="title-context">— Haroldo Gambini Santos</span></span>
+          <span class="window-title">{escape(title)} <span class="title-context">— Haroldo</span></span>
           <button class="maximize" type="button" aria-label="Maximize window" aria-pressed="false" hidden><span aria-hidden="true">□</span></button>
         </div>
         <main id="main" tabindex="-1">{content}</main>
@@ -180,14 +180,14 @@ def atom(posts):
         return node
 
     feed = ET.Element(f"{{{namespace}}}feed")
-    element(feed, "title", "Haroldo Gambini Santos — Blog")
+    element(feed, "title", "Haroldo — Blog")
     element(feed, "id", f"{SITE_URL}/blog/")
     element(feed, "link", href=f"{SITE_URL}/blog/")
     element(feed, "link", href=f"{SITE_URL}/blog/feed.xml", rel="self")
     updated = f'{posts[0]["date"].isoformat()}T00:00:00Z' if posts else "2026-10-17T00:00:00Z"
     element(feed, "updated", updated)
     author = element(feed, "author")
-    element(author, "name", "Haroldo Gambini Santos")
+    element(author, "name", "Haroldo")
     for post in posts:
         entry = element(feed, "entry")
         element(entry, "title", post["title"])

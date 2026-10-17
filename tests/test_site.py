@@ -173,6 +173,17 @@ class ArchiveTests(unittest.TestCase):
         self.assertNotIn("ufop", home.lower())
         self.assertNotIn("ZIP code", home)
 
+    def test_homepage_uses_first_name_in_content_and_metadata(self):
+        home = (ROOT / "content/index.html").read_text()
+        with tempfile.TemporaryDirectory() as directory:
+            output = Path(directory)
+            with patch.object(build, "OUTPUT", output):
+                build.render("index.html", "About", home)
+            rendered = (output / "index.html").read_text()
+        self.assertIn("<h1>Haroldo<span", rendered)
+        self.assertIn("<title>About · Haroldo</title>", rendered)
+        self.assertNotIn("Haroldo Gambini Santos", rendered)
+
 
 if __name__ == "__main__":
     unittest.main()

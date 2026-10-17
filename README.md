@@ -27,6 +27,8 @@ generated files, not the source files.
 - `posts/`: Markdown blog posts with TOML front matter.
 
 The biography intentionally says only **software engineer and former CS professor**.
+Site branding, metadata, and the blog feed use only **Haroldo**; publication
+citations retain their authors' published names.
 Teaching materials stay on the old university site. Publication PDFs, BibTeX,
 research diagrams, and software downloads that were available there were copied
 locally so they no longer depend on that server.
