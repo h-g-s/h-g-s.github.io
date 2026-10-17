@@ -1,0 +1,275 @@
+[
+  {
+    "id": "Brito2021",
+    "title": "Preprocessing and cutting planes with conflict graphs",
+    "authors": "Brito, Samuel Souza and Santos, Haroldo Gambini",
+    "citation": "Computers & Operations Research, 128: 105176. 2021.",
+    "category": "journal",
+    "url": "https://doi.org/10.1016/j.cor.2020.105176",
+    "preprint": "https://arxiv.org/pdf/1909.07780",
+    "bib": "assets/papers/Brito2021.bib"
+  },
+  {
+    "id": "Luiz2021",
+    "title": "Cover by disjoint cliques cuts for the knapsack problem with conflicting items",
+    "authors": "Luiz, Thiago Alcântara; Santos, Haroldo Gambini and Uchoa, Eduardo",
+    "citation": "Operations Research Letters, 49(6): 844–850. 2021.",
+    "category": "journal",
+    "url": "https://doi.org/10.1016/j.orl.2021.10.001",
+    "bib": "assets/papers/Luiz2021.bib"
+  },
+  {
+    "id": "Araujo2020",
+    "title": "Strong bounds for resource constrained project scheduling: Preprocessing and cutting planes",
+    "authors": "Araujo, Janniele A.S.; Santos, Haroldo G.; Gendron, Bernard; Jena, Sanjay D.; Brito, Samuel S. and Souza, Danilo S",
+    "citation": "Computers & Operations Research, 113. 2020.",
+    "category": "journal",
+    "url": "assets/papers/Araujo2020.pdf",
+    "bib": "assets/papers/Araujo2020.bib"
+  },
+  {
+    "id": "VillasBoas2019",
+    "title": "Optimal Decision Trees for the Algorithm Selection Problem: Integer Programming Based Approaches",
+    "authors": "Vilas Boas, Matheus G.; Santos, Haroldo G.; Merschmann, Luiz H.C. and Vanden Berghe, Greet",
+    "citation": "International Transactions in Operational Research, 28(5): 2759–2781. 2021 (first published online in 2019).",
+    "category": "journal",
+    "url": "assets/papers/VillasBoas2019.pdf",
+    "doi": "https://doi.org/10.1111/itor.12724",
+    "preprint": "https://arxiv.org/pdf/1907.02211",
+    "bib": "assets/papers/VillasBoas2019.bib"
+  },
+  {
+    "id": "Almeida2019",
+    "title": "A general-purpose distributed computing Java middleware",
+    "authors": "Almeida A.L.B.; Cimino, L.S.; Resende, J.E.E.; Silva, L.H.M.; Rocha, S.Q.S.; Gregorio, G.A.; Paiva, G.S.; Delabrida, S.; Santos, Haroldo G.; Carvalho, M.A.M.; Aquino, A.L.L. and Lima, J.C",
+    "citation": "Concurrency and Computation: Practice and Experience, 31(7): e4967. 2019.",
+    "category": "journal",
+    "url": "https://doi.org/10.1002/cpe.4967",
+    "bib": "assets/papers/Almeida2019.bib"
+  },
+  {
+    "id": "Santos2019",
+    "title": "Analysis of stochastic local search methods for the unrelated parallel machine scheduling problem",
+    "authors": "Santos, Haroldo G.; Toffolo, Túlio A.M.; Silva, Cristiano L.T.F. and Vanden Berghe, Greet",
+    "citation": "International Transactions in Operational Research, 26(2): 707--724. 2019.",
+    "category": "journal",
+    "url": "https://doi.org/10.1111/itor.12316",
+    "bib": "assets/papers/Santos2019.bib"
+  },
+  {
+    "id": "Cardoso2018",
+    "title": "The Ant Chromosome database - ACdb: an online resource for ant (Hymenoptera: Formicidae) chromosome researchers",
+    "authors": "Cardoso, D.C.; Santos, Haroldo G. and Cristiano, M.P",
+    "citation": "Myrmecological News, 27: 87-91. 2018.",
+    "category": "journal",
+    "url": "assets/papers/Cardoso2018.pdf",
+    "bib": "assets/papers/Cardoso2018.bib"
+  },
+  {
+    "id": "Silva2017",
+    "title": "Drawing graphs with mathematical programming and variable neighborhood search",
+    "authors": "Silva, Cézar A.N. and Santos, Haroldo G",
+    "citation": "Electronic Notes in Discrete Mathematics, 58: 207 - 214. 2017.",
+    "category": "journal",
+    "url": "assets/papers/Silva2017.pdf",
+    "bib": "assets/papers/Silva2017.bib"
+  },
+  {
+    "id": "Pecin2017",
+    "title": "Limited memory Rank-1 Cuts for Vehicle Routing Problems",
+    "authors": "Pecin, Diego; Pessoa, Artur; Poggi, Marcus; Uchoa, Eduardo and Santos, Haroldo G",
+    "citation": "Operations Research Letters, 45(3): 206 - 209. 2017.",
+    "category": "journal",
+    "url": "assets/papers/Pecin2017.pdf",
+    "bib": "assets/papers/Pecin2017.bib"
+  },
+  {
+    "id": "Fonseca2017",
+    "title": "Integer Programming Techniques for Educational Timetabling",
+    "authors": "Fonseca, George H.G.; Santos, Haroldo G.; Carrano, Eduardo G. and Stidsen, Thomas J.R",
+    "citation": "European Journal of Operational Research, 262: 28--39. 2017.",
+    "category": "journal",
+    "url": "assets/papers/Fonseca2017.pdf",
+    "bib": "assets/papers/Fonseca2017.bib"
+  },
+  {
+    "id": "Coelho2017",
+    "title": "A communitarian microgrid storage planning system inside the scope of a smart city",
+    "authors": "Coelho, V.N.; Coelho, I.M.; Coelho, B.N.; Oliveira, G.C.; Barbosa, A.C.; Pereira, L.; Freitas, A.; Santos, Haroldo G.; Ochi, L.S. and Guimarães, F.G",
+    "citation": "Applied Energy, 201: 371--381. 2017.",
+    "category": "journal",
+    "url": "https://doi.org/10.1016/j.apenergy.2016.12.043",
+    "bib": "assets/papers/Coelho2017.bib"
+  },
+  {
+    "id": "Brito2017",
+    "title": "Automatic integer programming reformulation using variable neighborhood search",
+    "authors": "Brito, Samuel S. and Santos, Haroldo G",
+    "citation": "Electronic Notes in Discrete Mathematics, 58: 7--14. 2017.",
+    "category": "journal",
+    "url": "https://doi.org/10.1016/j.endm.2017.03.002",
+    "bib": "assets/papers/Brito2017.bib"
+  },
+  {
+    "id": "Fonseca2016",
+    "title": "GOAL solver: a hybrid local search based solver for high school timetabling",
+    "authors": "Fonseca, George H.G.; Santos, Haroldo G.; Toffolo, Túlio A.M.; Brito, Samuel S. and Souza, Marcone J.F",
+    "citation": "Annals of Operations Research, 239: 77--97. 2016.",
+    "category": "journal",
+    "url": "assets/papers/Fonseca2016.pdf",
+    "bib": "assets/papers/Fonseca2016.bib"
+  },
+  {
+    "id": "Fonseca2016b",
+    "title": "Late acceptance hill-climbing for high school timetabling",
+    "authors": "Fonseca, George H.G.; Santos, Haroldo G. and Carrano, Eduardo G",
+    "citation": "Journal of Scheduling, 19(4): 453--465. 2016.",
+    "category": "journal",
+    "url": "assets/papers/Fonseca2016b.pdf",
+    "bib": "assets/papers/Fonseca2016b.bib"
+  },
+  {
+    "id": "Fonseca2016c",
+    "title": "Integrating Matheuristics and Metaheuristics for Timetabling",
+    "authors": "Fonseca, George H.G.; Santos, Haroldo G. and Carrano, Eduardo G",
+    "citation": "Computers & Operations Research, 74: 108 - 117. 2016.",
+    "category": "journal",
+    "url": "assets/papers/Fonseca2016c.pdf",
+    "bib": "assets/papers/Fonseca2016c.bib"
+  },
+  {
+    "id": "Toffolo2016",
+    "title": "An integer programming approach to the multimode resource-constrained multiproject scheduling problem",
+    "authors": "Toffolo, Túlio A.M.; Santos, Haroldo G.; Carvalho, Marco A. M. and Soares, Janniele A",
+    "citation": "Journal of Scheduling, 19(3): 295--307. 2016.",
+    "category": "journal",
+    "url": "https://doi.org/10.1007/s10951-015-0422-4",
+    "bib": "assets/papers/Toffolo2016.bib"
+  },
+  {
+    "id": "Santos2016",
+    "title": "Integer programming techniques for the nurse rostering problem",
+    "authors": "Santos, Haroldo G.; Toffolo, Túlio A.M.; Gomes, Rafael A.M. and Ribas, Sabir",
+    "citation": "Annals of Operations Research, 239: 225--251. 2016.",
+    "category": "journal",
+    "url": "assets/papers/Santos2016.pdf",
+    "bib": "assets/papers/Santos2016.bib"
+  },
+  {
+    "id": "Brito2015",
+    "title": "A Computational Study of Conflict Graphs and Aggressive Cut Separation in Integer Programming",
+    "authors": "Brito, Samuel S.; Santos, Haroldo G. and Poggi, Marcus",
+    "citation": "Electronic Notes in Discrete Mathematics, 50: 355-360. 2015.",
+    "category": "journal",
+    "url": "assets/papers/Brito2015.pdf",
+    "bib": "assets/papers/Brito2015.bib"
+  },
+  {
+    "id": "Fonseca2014",
+    "title": "Variable Neighborhood Search based algorithms for high school timetabling",
+    "authors": "Fonseca, George H.G. and Santos, Haroldo G",
+    "citation": "Computers & Operations Research, 52: 203-208. 2014.",
+    "category": "journal",
+    "url": "assets/papers/Fonseca2014.pdf",
+    "bib": "assets/papers/Fonseca2014.bib"
+  },
+  {
+    "id": "Brito2012",
+    "title": "A SA-VNS approach for the High School Timetabling Problem",
+    "authors": "Brito, Samuel S.; Fonseca, George H.G.; Toffolo, Túlio A.M.; Santos, Haroldo G. and Souza, Marcone J.F",
+    "citation": "Electronic Notes in Discrete Mathematics, 39(0): 169 - 176. 2012.",
+    "category": "journal",
+    "url": "assets/papers/Brito2012.pdf",
+    "bib": "assets/papers/Brito2012.bib"
+  },
+  {
+    "id": "Santos2012",
+    "title": "Strong bounds with cut and column generation for class-teacher timetabling",
+    "authors": "Santos, Haroldo G.; Uchoa, Eduardo; Ochi, Luiz S. and Maculan, Nelson",
+    "citation": "Annals of Operations Research, 194: 399-412. 2012.",
+    "category": "journal",
+    "url": "assets/papers/Santos2012.pdf",
+    "bib": "assets/papers/Santos2012.bib"
+  },
+  {
+    "id": "Post2011",
+    "title": "XHSTT: an XML archive for high school timetabling problems in different countries",
+    "authors": "Post, Gerhard; Kingston, Jeffrey H.; Santos, Haroldo G. and Schaerf, Andrea et al",
+    "citation": "Annals of Operations Research, 218(1): 295-301. 2011.",
+    "category": "journal",
+    "url": "assets/papers/Post2011.pdf",
+    "bib": "assets/papers/Post2011.bib"
+  },
+  {
+    "id": "Souza2010",
+    "title": "A hybrid heuristic algorithm for the open-pit-mining operational planning problem",
+    "authors": "Souza, Marcone J.F.; Coelho, Igor M.; Ribas, Sabir; Santos, Haroldo G. and Merschmann, Luiz H.C",
+    "citation": "European Journal of Operational Research, 207(2): 1041 - 1051. 2010.",
+    "category": "journal",
+    "url": "assets/papers/Souza2010.pdf",
+    "bib": "assets/papers/Souza2010.bib"
+  },
+  {
+    "id": "Santos2006",
+    "title": "Combining an evolutionary algorithm with data mining to solve a single-vehicle routing problem",
+    "authors": "Santos, Haroldo G.; Ochi, Luiz S.; Marinho, Euler H. and Drummond, Lúcia M.A",
+    "citation": "Neurocomputing, 70(1-3): 70 - 77. 2006.",
+    "category": "journal",
+    "url": "assets/papers/Santos2006.pdf",
+    "bib": "assets/papers/Santos2006.bib"
+  },
+  {
+    "id": "Santos2005",
+    "title": "A Tabu search heuristic with efficient diversification strategies for the class/teacher timetabling problem",
+    "authors": "Santos, Haroldo G.; Ochi, Luiz S. and Souza, Marcone J.F",
+    "citation": "J. Exp. Algorithmics, 10. 2005.",
+    "category": "journal",
+    "url": "assets/papers/Santos2005.pdf",
+    "bib": "assets/papers/Santos2005.bib"
+  },
+  {
+    "id": "Brito2014",
+    "title": "A Local Search Approach for Binary Programming: Feasibility Search",
+    "authors": "Brito, Samuel S.; Santos, Haroldo G. and Santos, Bruno H. M",
+    "citation": "Hybrid Metaheuristics, 45-55 2014.",
+    "category": "conference",
+    "url": "assets/papers/Brito2014.pdf",
+    "bib": "assets/papers/Brito2014.bib"
+  },
+  {
+    "id": "Santos2014P",
+    "title": "Hybrid Local Search for The Multi-Mode Resource-Constrained Multi-Project Scheduling Problem",
+    "authors": "Santos, Haroldo G.; Soares, Janniele A. and Toffolo, Túlio A.M",
+    "citation": "PATAT 2014 - Proceedings of the 10th International Conference on the Practice and Theory of Automated Timetabling, 1-11 2014.",
+    "category": "conference",
+    "url": "assets/papers/Santos2014P.pdf",
+    "bib": "assets/papers/Santos2014P.bib"
+  },
+  {
+    "id": "Fonseca2013",
+    "title": "Memetic Algorithms for the High School Timetabling Problem",
+    "authors": "Fonseca, George H.G. and Santos, Haroldo G",
+    "citation": "IEEE Congress on Evolutionary Computation, 666-672 2013.",
+    "category": "conference",
+    "url": "assets/papers/Fonseca2013.pdf",
+    "bib": "assets/papers/Fonseca2013.bib"
+  },
+  {
+    "id": "Gomes2013",
+    "title": "A Pre-processing Aware RINS Based MIP Heuristic",
+    "authors": "Gomes, Thiago M.; Santos, Haroldo G. and Souza, Marcone J.F",
+    "citation": "Hybrid Metaheuristics, 1-11 2013.",
+    "category": "conference",
+    "url": "assets/papers/Gomes2013.pdf",
+    "bib": "assets/papers/Gomes2013.bib"
+  },
+  {
+    "id": "Tinoco2013",
+    "title": "Ensemble of classifiers for remote sensed hyperspectral land cover analysis: An approach based on Linear Programming and Weighted Linear Combination",
+    "authors": "Tinôco, Sandro L. J. L.; Santos, Haroldo G.; Menotti, David; Santos, Andrey B. and Santos, Jefersson A",
+    "citation": "IGARSS, 4082-4085 2013.",
+    "category": "conference",
+    "url": "assets/papers/Tinoco2013.pdf",
+    "bib": "assets/papers/Tinoco2013.bib"
+  }
+]
